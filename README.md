@@ -6,7 +6,7 @@ A lightweight macOS desktop widget for live power and battery telemetry, built f
 
 | Charging paused | On battery |
 |:--:|:--:|
-| ![Charging paused](screenshots/charging-paused.png) | ![On battery](screenshots/on-battery.png) |
+| ![Charging paused](charging-paused.png) | ![On battery](on-battery.png) |
 
 ## Features
 
